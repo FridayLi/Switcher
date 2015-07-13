@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="Switcher">
+        <attr name="openBackgroundColor" format="color" />
+        <attr name="closeBackgroundColor" format="color" />
+        <attr name="thumbGap" format="dimension"/>
+    </declare-styleable>
+</resources>
